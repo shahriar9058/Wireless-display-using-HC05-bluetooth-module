@@ -44,10 +44,5 @@ void loop()
   lcd.print("     Board     ");
   delay(2000);
   lcd.clear();
-  lcd.setCursor(1, 0);
-  lcd.print("Department of ");
-  lcd.setCursor(3, 1);
-  lcd.print("ETE, RUET ");
-  delay(2000);
     }
 }
